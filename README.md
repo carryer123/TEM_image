@@ -1,6 +1,6 @@
-# TEM_image
+# TEM_image_analysis
 
-![images_large_nn0c06809_0005](https://github.com/carryer123/TEM_image/assets/13994361/258df20f-e5e7-4037-b889-1b5507d59e40){: width="200" height="100"}
+![images_large_nn0c06809_0005](https://github.com/carryer123/TEM_image/assets/13994361/258df20f-e5e7-4037-b889-1b5507d59e40)
 
 Abstract
 
