@@ -12,7 +12,10 @@ Matlab_R2015b
 
 # test
 
+I uploaded new_gene_97 version of gene.
+
 run(gene, image, number)
+
 
 # Reference paper
 
