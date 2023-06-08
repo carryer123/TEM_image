@@ -10,12 +10,21 @@ Although transmission electron microscopy (TEM) may be one of the most efficient
 
 Matlab_R2015b
 
-# test
+# Training
+
+The images are in the training folder.
+
+EM_ga.m
+
+# Test
 
 I uploaded new_gene_97 version of gene.
 
 run(gene, image, number)
 
+# etc. 
+
+There are some clustering, statistical analysis, etc. in the paper.
 
 # Reference paper
 
